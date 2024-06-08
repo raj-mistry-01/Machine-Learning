@@ -1,0 +1,11 @@
+with code with library 
+    there are actuaaly two inbuilt options are there :
+        1) test_size
+        2) train_size
+
+test_size means that much percentage of data will go to test_size
+train_size means that much percentage of data will go to train_size
+
+like if you input split_size : 0.2 (let suppose total 100 rows) 
+if test_size is the argument then in test_size 20 rows and train_size 80 rows (valid)
+if train_size is the argument then in train_size 20 rows and test_size 80 rows(not valid)
