@@ -1,0 +1,7 @@
+1. Id ; is just the serial number of the dataset we can ignore it.
+
+2 . SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm are the properties of an iris flower.
+
+3. Species are the 0,1 and 2 means categorical variable of Species.
+ 
+last column "Species" is the predicting column.
